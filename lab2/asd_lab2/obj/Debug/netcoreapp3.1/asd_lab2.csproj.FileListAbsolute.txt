@@ -1,0 +1,13 @@
+/Users/anebesna/Projects/asd_lab2/asd_lab2/bin/Debug/netcoreapp3.1/asd_lab2.deps.json
+/Users/anebesna/Projects/asd_lab2/asd_lab2/bin/Debug/netcoreapp3.1/asd_lab2.runtimeconfig.json
+/Users/anebesna/Projects/asd_lab2/asd_lab2/bin/Debug/netcoreapp3.1/asd_lab2.runtimeconfig.dev.json
+/Users/anebesna/Projects/asd_lab2/asd_lab2/bin/Debug/netcoreapp3.1/asd_lab2.dll
+/Users/anebesna/Projects/asd_lab2/asd_lab2/bin/Debug/netcoreapp3.1/asd_lab2.pdb
+/Users/anebesna/Projects/asd_lab2/asd_lab2/obj/Debug/netcoreapp3.1/asd_lab2.csproj.AssemblyReference.cache
+/Users/anebesna/Projects/asd_lab2/asd_lab2/obj/Debug/netcoreapp3.1/asd_lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anebesna/Projects/asd_lab2/asd_lab2/obj/Debug/netcoreapp3.1/asd_lab2.AssemblyInfoInputs.cache
+/Users/anebesna/Projects/asd_lab2/asd_lab2/obj/Debug/netcoreapp3.1/asd_lab2.AssemblyInfo.cs
+/Users/anebesna/Projects/asd_lab2/asd_lab2/obj/Debug/netcoreapp3.1/asd_lab2.csproj.CoreCompileInputs.cache
+/Users/anebesna/Projects/asd_lab2/asd_lab2/obj/Debug/netcoreapp3.1/asd_lab2.dll
+/Users/anebesna/Projects/asd_lab2/asd_lab2/obj/Debug/netcoreapp3.1/asd_lab2.pdb
+/Users/anebesna/Projects/asd_lab2/asd_lab2/obj/Debug/netcoreapp3.1/asd_lab2.genruntimeconfig.cache
