@@ -1,0 +1,13 @@
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab5/bin/Debug/netcoreapp3.1/asd_lab5.deps.json
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab5/bin/Debug/netcoreapp3.1/asd_lab5.runtimeconfig.json
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab5/bin/Debug/netcoreapp3.1/asd_lab5.runtimeconfig.dev.json
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab5/bin/Debug/netcoreapp3.1/asd_lab5.dll
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab5/bin/Debug/netcoreapp3.1/asd_lab5.pdb
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab5/obj/Debug/netcoreapp3.1/asd_lab5.csproj.AssemblyReference.cache
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab5/obj/Debug/netcoreapp3.1/asd_lab5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab5/obj/Debug/netcoreapp3.1/asd_lab5.AssemblyInfoInputs.cache
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab5/obj/Debug/netcoreapp3.1/asd_lab5.AssemblyInfo.cs
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab5/obj/Debug/netcoreapp3.1/asd_lab5.csproj.CoreCompileInputs.cache
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab5/obj/Debug/netcoreapp3.1/asd_lab5.dll
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab5/obj/Debug/netcoreapp3.1/asd_lab5.pdb
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab5/obj/Debug/netcoreapp3.1/asd_lab5.genruntimeconfig.cache
