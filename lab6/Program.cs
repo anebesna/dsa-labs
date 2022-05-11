@@ -100,8 +100,6 @@ namespace lab6
             }
             if (data == 0)
             {
-                Showq();
-                WriteLine();
                 Dequeue();
                 Thread.Sleep(500);
                 WriteLine();
@@ -123,7 +121,7 @@ namespace lab6
         public void Dequeue()
         {
             //check if empty
-            if (count == 1)
+            if (count == 1 || count == 0)
             {
                 WriteLine("Your queue is empty!");
                 Environment.Exit(0);
@@ -234,6 +232,5 @@ namespace lab6
             WriteLine("\nLet's dequeue");
             Dequeue();
         }
-
     }
 }
