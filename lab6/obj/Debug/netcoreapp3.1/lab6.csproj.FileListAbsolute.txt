@@ -1,0 +1,13 @@
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab6/bin/Debug/netcoreapp3.1/lab6.deps.json
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab6/bin/Debug/netcoreapp3.1/lab6.runtimeconfig.json
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab6/bin/Debug/netcoreapp3.1/lab6.runtimeconfig.dev.json
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab6/bin/Debug/netcoreapp3.1/lab6.dll
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab6/bin/Debug/netcoreapp3.1/lab6.pdb
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab6/obj/Debug/netcoreapp3.1/lab6.csproj.AssemblyReference.cache
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab6/obj/Debug/netcoreapp3.1/lab6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab6/obj/Debug/netcoreapp3.1/lab6.AssemblyInfoInputs.cache
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab6/obj/Debug/netcoreapp3.1/lab6.AssemblyInfo.cs
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab6/obj/Debug/netcoreapp3.1/lab6.csproj.CoreCompileInputs.cache
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab6/obj/Debug/netcoreapp3.1/lab6.dll
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab6/obj/Debug/netcoreapp3.1/lab6.pdb
+/Users/anebesna/Documents/asd/ads-nebesna-kp11/lab6/obj/Debug/netcoreapp3.1/lab6.genruntimeconfig.cache
