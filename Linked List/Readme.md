@@ -16,4 +16,4 @@ The DLNode class defines a doubly linked list node. It contains fields:
 
 • prev - a link to the previous node
 
--   next - a link to the next node
+• next - a link to the next node
