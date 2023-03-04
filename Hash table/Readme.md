@@ -25,12 +25,12 @@ of authorization on the online platform.
 
 The Hashtable class describes a hash table. It contains fields:
 
-table -- an array that represents a hash table;
+  table - an array that represents a hash table;
 
-loadness -- the load of the table, i.e. the number of non-empty table
-slots;
+  loadness - the load of the table, i.e. the number of non-empty table
+  slots;
 
-size -- the number of keys contained in the table.
+  size - the number of keys contained in the table.
 
 The Key class describes a key. Contains fields according to the option.
 
@@ -40,6 +40,6 @@ to the option.
 The Entry class describes an element to be added to the hash table.
 Contains fields:
 
-key -- Key type key,
+  key - Key type key,
 
-value -- value of the Value type.
+  value - value of the Value type.
