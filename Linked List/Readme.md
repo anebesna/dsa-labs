@@ -5,15 +5,13 @@ node with an equal value list.
 Description of classes for defining singly and doubly linked list:
 
 The SLNode class defines a singly linked list node. It contains fields:
-
-• data - an integer stored in the node
-
-• next - a link to the next node
-
-The DLNode class defines a doubly linked list node. It contains fields:
-
-• data - an integer stored in the node
-
-• prev - a link to the previous node
-
-• next - a link to the next node
+<ul>
+  <li>data - an integer stored in the node;</li>
+  <li>next - a link to the next node.</li>
+</ul>
+The DLNode class defines a doubly linked list node. It contains fields:<br/>
+<ul>
+  <li>data - an integer stored in the node;
+  <li>prev - a link to the previous node;</li>
+  <li>next - a link to the next node.</li>
+</ul>
